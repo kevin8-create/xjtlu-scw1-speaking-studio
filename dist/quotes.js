@@ -1,0 +1,122 @@
+window.SCW_QUOTES = [
+  {
+    topic: "University",
+    prompt: "Describe a challenge that you have faced during your studies.",
+    quote: "Reading maketh a full man; conference a ready man; and writing an exact man",
+    author: "Francis Bacon",
+    work: "Of Studies",
+    url: "https://en.wikisource.org/wiki/The_Works_of_Francis_Bacon/Volume_1/Essays/Of_Studies",
+    zh: "阅读充实头脑，讨论使人反应敏捷，写作使人表达准确。这里的 conference 指交谈或讨论。",
+    paraphrase: "Reading gives you ideas, talking helps you explain them, and writing makes you more precise.",
+    example: "My biggest challenge was turning the reading into a clear point for a seminar. I read two articles, explained the difference to a partner, and then wrote it down in one sentence. When my turn came, I could make the comparison without looking at my notes.",
+    drill: "用 25 秒讲一个困难、一个做法和一个结果。 / In 25 seconds, describe one study challenge, what you did and what changed."
+  },
+  {
+    topic: "Communication",
+    prompt: "Describe a time when you had difficulty communicating.",
+    quote: "brevity is the soul of wit",
+    author: "William Shakespeare (spoken by Polonius)",
+    work: "Hamlet, Act 2, Scene 2",
+    url: "https://www.folger.edu/explore/shakespeares-works/hamlet/read/2/2/",
+    zh: "简洁是机智的精髓。剧中的波洛涅斯说要简短，自己却讲得很啰嗦，形成反讽。",
+    paraphrase: "A short message works well when it gives the listener the detail they need.",
+    example: "I once sent a long message about a group project, but my teammates couldn’t tell what I wanted them to do. I rewrote it as one sentence asking each person to send their slide by six. Two people replied straight away because the action and deadline were clear.",
+    drill: "说出原来的误解，并复述修改后的信息。 / Describe the misunderstanding, then give the exact message you used to clear it up."
+  },
+  {
+    topic: "Health",
+    prompt: "Describe some habits that are important for physical health.",
+    quote: "Early to bed and early to rise, makes a man healthy, wealthy, and wise.",
+    author: "Traditional proverb printed by Benjamin Franklin",
+    work: "Poor Richard’s Almanack, selection 131 in the cited edition",
+    url: "https://hamilton.gilderlehrman.org/supporting-document/poor-richards-almanac",
+    zh: "早睡早起，使人健康、富足、明智。这是一句旧格言，可以用来引出规律作息。",
+    paraphrase: "A regular sleep routine can make the next morning easier to manage.",
+    example: "One habit I’d suggest is keeping a regular bedtime. During a week of early classes, I put my phone across the room and went to bed at about the same time each night. I felt less rushed in the morning and could concentrate on the first task in class.",
+    drill: "补一个能观察到的结果，比如早课更专注。 / Give a health habit and one result you noticed, such as finding it easier to focus in an early class."
+  },
+  {
+    topic: "Jobs",
+    prompt: "Describe a job that requires good technology skills.",
+    quote: "No matter what this job is, you must decide to do it well.",
+    author: "Martin Luther King Jr.",
+    work: "Some Things We Must Do, speech on December 5, 1957",
+    url: "https://kinginstitute.stanford.edu/king-papers/documents/some-things-we-must-do-address-delivered-second-annual-institute-nonviolence",
+    zh: "不论做哪份工作，都要下定决心把它做好。",
+    paraphrase: "Taking your work seriously means doing routine tasks carefully.",
+    example: "A university IT technician needs to diagnose problems and explain the solution clearly. If a classroom projector shows no picture, for example, they need to check the connection and display settings before deciding what to replace. A careful check can get the class started and prevent the same problem next time.",
+    drill: "说出岗位和两项技能，给出一项日常任务以及做好的结果。 / Name the job and two skills. Describe one routine task and what happens when it’s done well."
+  },
+  {
+    topic: "People",
+    prompt: "How can celebrities help people improve their lives?",
+    quote: "Alone we can do so little; together we can do so much.",
+    author: "Helen Keller",
+    work: "Script for Helen Keller and Anne Sullivan’s vaudeville appearances",
+    url: "https://afb.org/about-afb/history/helen-keller/helen-keller-quotes/helen-keller-quotes-progress",
+    zh: "独自一人能做的很少，携手合作能做的很多。",
+    paraphrase: "People can often do more when they combine what each person can offer.",
+    example: "A famous athlete can draw attention to a local programme and help it reach more people. For example, they could share details of a free beginners’ sports session. They could also work with the coaches to fund spare equipment, so new participants can try it without buying anything first.",
+    drill: "给两种支持方式，说明名人和合作方各自做什么。 / Give two ways to help, then explain what the celebrity and a partner organization would each do."
+  },
+  {
+    topic: "Environment",
+    prompt: "Describe some types of pollution that affect your city.",
+    quote: "in Wildness is the preservation of the world",
+    author: "Henry David Thoreau",
+    work: "Walking, manuscript held by Concord Free Public Library",
+    url: "https://concordlibrary.org/special-collections/ct/46",
+    zh: "自然保持其原生状态，世界才得以保全。Wildness 在这里指自然的野性。",
+    paraphrase: "We depend on healthy natural spaces, so it matters to leave room for them.",
+    example: "Litter is one kind of pollution I notice near the canal. After a busy weekend, I sometimes see cups beside the path, where rain can carry them into the water. Traffic noise is another example. Near a junction, I often have to stop talking until the vehicles have passed.",
+    drill: "给两种污染。每种都说一个你可能在城市里看到或听到的细节。 / Name two types of pollution and give one detail you might see or hear for each."
+  },
+  {
+    topic: "Technology",
+    prompt: "What are some devices that use the internet?",
+    quote: "The most important thing about the World Wide Web is that it is universal.",
+    author: "Tim Berners-Lee",
+    work: "The World Wide Web — Past Present and Future, 2002 Japan Prize commemorative lecture",
+    url: "https://www.w3.org/2002/04/Japan/Lecture.html",
+    zh: "万维网最重要的特点是它的普适性。不同设备和有不同需求的人都应能使用它。",
+    paraphrase: "The Web is most useful when people can reach the same information with different devices and needs.",
+    example: "A phone and a laptop can both connect to the internet, but people use them in different situations. I might check a course announcement on my phone between lectures and open the same page on a laptop to download a file. It helps when the site works well on both.",
+    drill: "列两到三种设备，再比较其中两种的使用场景。 / Name two or three devices, then compare when someone might use two of them."
+  },
+  {
+    topic: "Education",
+    prompt: "Describe a subject that you found challenging at school.",
+    quote: "Thinking is the method of intelligent learning, of learning that employs and rewards mind.",
+    author: "John Dewey",
+    work: "Democracy and Education, Chapter 12, Thinking in Education",
+    url: "https://courses.lumenlearning.com/suny-eng-101-college-writing-i-burke/chapter/john-dewey-democracy-and-education/",
+    zh: "思考是主动学习的方法。这样的学习运用心智，也让心智得到发展。",
+    paraphrase: "Learning goes deeper when you work out why an answer makes sense.",
+    example: "I found maths word problems difficult because I couldn’t tell which figures mattered. In one question about bus fares, I drew a small table of journeys and costs. Once I could explain which cost changed with each journey, I could solve a similar problem about phone plans on my own.",
+    drill: "说出一个具体难点、帮你理解的做法，以及你后来能独立完成的任务。 / Name one difficulty, the step that helped you understand it, and something you could do independently afterwards."
+  },
+  {
+    topic: "Places",
+    prompt: "Describe a place where you had a special experience.",
+    quote: "For my part, I travel not to go anywhere, but to go. I travel for travel’s sake.",
+    author: "Robert Louis Stevenson",
+    work: "Travels with a Donkey in the Cévennes, Cheylard and Luc",
+    url: "https://upload.wikimedia.org/wikipedia/commons/c/c8/An_inland_voyage_and_Travels_with_a_donkey_%28IA_inlandvoyagetrav04stev%29.pdf",
+    zh: "对我而言，旅行的乐趣在于旅途本身。史蒂文森强调的是一路上的经历。",
+    paraphrase: "The journey itself can be what makes a trip memorable.",
+    example: "I had a memorable afternoon on Pingjiang Road in Suzhou. My friend and I stopped near a bridge as the rain eased, and I could hear bicycle bells from a side lane. That small moment stayed with me because it was the first time all week that I’d had time to slow down.",
+    drill: "补充一个看见或听见的细节，说明为什么那个时刻值得记住。 / Describe one thing you saw or heard, then explain why the moment stayed with you."
+  },
+  {
+    topic: "Change",
+    prompt: "Describe a change that happened during your life.",
+    quote: "Change is the law of life.",
+    author: "John F. Kennedy",
+    work: "Address in the Assembly Hall at the Paulskirche in Frankfurt, June 25, 1963",
+    url: "https://www.presidency.ucsb.edu/documents/address-the-assembly-hall-the-paulskirche-frankfurt",
+    zh: "变化是生活的常态。",
+    paraphrase: "When your circumstances change, some habits need to change with them.",
+    example: "Moving to university changed the way I planned my time. At home, dinner happened at about the same time every day. In my first week on campus, I stayed in the library so late that I missed the canteen. After that, I started putting a dinner break into my timetable.",
+    drill: "按「以前、变化发生、后来怎么做」讲 30 秒。 / Take 30 seconds to say what things were like before, what changed and how you responded."
+  }
+];
